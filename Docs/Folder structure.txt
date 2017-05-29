@@ -1,0 +1,11 @@
+VSIPBack
+ - Core            : For main function calls
+ - ImageIO         : Image Input/Output
+ - Image Properties: histogram, bands, pixel etc
+ - Enhancements    : Histogram and basic functions
+ - Filters         : lowpass, highpass
+ - Fourier         : 2dfft
+ - Xlets           : wavelets, curvelets
+ - Morphologial ops: open, close
+ - Band ops        :
+ - VSIPBack        : Settings
